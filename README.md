@@ -46,6 +46,5 @@ Results were compared to the ones of the Variational Autoencoder (VAE) in the bo
 
 <img width="739" alt="Screen Shot 2022-12-08 at 7 38 36 AM" src="https://user-images.githubusercontent.com/66377681/206448262-c9330b99-307b-46df-a85f-a02173435caa.png">
 
-<img width="739" alt="Screen Shot 2022-12-08 at 7 46 24 AM" src="https://user-images.githubusercontent.com/66377681/206450048-92d0157e-6487-4a24-aab2-cf068b55d081.png">
-
+<img width="742" alt="Screen Shot 2022-12-08 at 7 51 53 AM" src="https://user-images.githubusercontent.com/66377681/206451223-42a484f8-03ea-40da-9648-111f9c16b0ee.png">
 
