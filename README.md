@@ -17,7 +17,7 @@ dset.head()
 Finally, comment out the following block.
 ```
 dset = pd.read_csv('CData/emnist-balanced-train.csv', header=None)
-dset.head()<img width="739" alt="Screen Shot 2022-12-08 at 7 46 08 AM" src="https://user-images.githubusercontent.com/66377681/206449988-900e7181-9763-4226-adfd-4a99eaad41a7.png">
+dset.head()
 
 ```
 
@@ -29,7 +29,7 @@ $ cd Handwritten-Character-Generator
 ```
 ## Generative Adversarial Network (GAN)
 This model is composed by two neural networks: a generator that takes a random distribution as input and outputs some data (typically an image), and a discriminator that takes a fake image from the generator and a real one from the training set as input, and must guess whether the input image is fake or real.
-The goal of the generator is to trick the discriminator and the goal of the discriminator is to tell fake from real correctly.
+The goal of the generator is to trick the discriminator and the goal of the discriminator is to tell fake images from real ones correctly, despite the increased accuracy of the generator's results.
 
 <img width="576" alt="Screen Shot 2022-12-08 at 7 24 05 AM" src="https://user-images.githubusercontent.com/66377681/206445637-5a22b0aa-adde-43b1-b3cc-29e95294d88c.png">
 
