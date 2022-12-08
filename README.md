@@ -41,6 +41,10 @@ Consulted the following sources for implementation details:
 Intelligent Systems by Aurélien Géron (https://a.co/aotQFto)
 - Deep Convolutional Generative Adversarial Network Tutorial by TensorFlow (https://www.tensorflow.org/tutorials/generative/dcgan)
 - Generative Adversarial Networks (GAN) in Tensorflow Tutorial by Sundog Education (https://www.youtube.com/watch?v=LZov6445YAY)
+- Alarsan, F.I., Younes, M. Best Selection of Generative Adversarial Networks Hyper-Parameters Using Genetic Algorithm. SN COMPUT. SCI. 2, 283 (2021). (https://doi.org/10.1007/s42979-021-00689-3)
+- Google's Introduction to GANs (https://developers.google.com/machine-learning/gan)
+- NVIDIA blog post (https://blogs.nvidia.com/blog/2020/12/07/neurips-research-limited-data-gan/#:~:text=It%20typically%20takes%2050%2C000%20to,sample%20images%20at%20their%20disposal.)
+
 
 Results were compared to the ones of the Variational Autoencoder (VAE) in the book referenced on the previous list using the same dataset.
 
